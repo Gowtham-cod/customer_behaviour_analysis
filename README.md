@@ -32,5 +32,3 @@ This project analyzes customer purchasing behavior to uncover patterns, trends, 
 
 ## Dashboard
 The Power BI dashboard provides interactive visualizations for customer behavior, sales trends, and business performance metrics.
-
-## Repository Structure
